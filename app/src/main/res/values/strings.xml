@@ -1,0 +1,51 @@
+<resources>
+
+    <!--General-->
+    <string name="app_name">First Aid Helper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">First Aid Helper</string>
+    <string name="nav_header_subtitle">v1.0</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Navigation bar-->
+    <string name="menu_profile">Profile</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_help">Help</string>
+
+    <!--Main Form-->
+    <string name="mainFirstButton">"S.O.S"</string>
+    <string name="iWantToHelp">"I want to help"</string>
+    <string name="title_activity_user_profile">User Profile</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--Sing Up & Login in Forms-->
+    <string name="email_text">"Email"</string>
+    <string name="password_text">"Password"</string>
+    <string name="already_account">"Already have an account? Click here"</string>
+    <string name="dont_have_account">"Don't have an account? Click here"</string>
+
+    <!--User Profile Form-->
+    <string name="user_profile_name">"Name"</string>
+    <string name="user_profile_med_condition">"Medical Conditions"</string>
+    <string name="user_profile_med_notes">"Medical Notes"</string>
+    <string name="user_profile_allergies">"Allergies and Reactions"</string>
+    <string name="user_profile_medications">"Medications"</string>
+    <string name="user_profile_blood_type">"Blood Type"</string>
+    <string name="user_profile_first_aid">"First Aid Certified"</string>
+    <string name="user_profile_email">"Email"</string>
+    <string name="user_profile_phone">"Phone"</string>
+    <string name="add_medical_conditions">Add medical conditions</string>
+    <string name="add_medical_notes">Add medical notes</string>
+    <string name="add_allergies_and_reactions">Add allergies and reactions</string>
+    <string name="add_medications">Add medications</string>
+    <string name="add_blood_type">Add blood type</string>
+    <string name="verified">Verified?</string>
+    <string name="add_email">Add email</string>
+    <string name="add_phone_number">Add phone number</string>
+    <string name="add_name">Name</string>
+
+
+</resources>

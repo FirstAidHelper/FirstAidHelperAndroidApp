@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity
+            android:name="com.ibm.firstaidhelper.UserProfileScrollingActivity"
+            android:label="@string/title_activity_user_profile_scrolling"
+            android:theme="@style/AppTheme.NoActionBar.NoActionBar"></activity>
+        <activity android:name="com.ibm.firstaidhelper.LogIn" />
+        <activity android:name="com.ibm.firstaidhelper.SignUp" />
+    </application>
+
+</manifest>
